@@ -1,0 +1,112 @@
+SEMESTER_ID;WEEK_ID;COURSE_NAME;total_attendance;total_course;ATTENDANCE_PCT
+1;W1-December;Applied Data Science;4;4;100.0
+1;W1-December;Data Mining;6;6;100.0
+1;W1-December;Introduction to Applied Machine Learning;5;6;83.33
+1;W1-December;Statistic;2;2;100.0
+1;W1-November;Applied Data Science;3;4;75.0
+1;W1-November;Data Mining;6;6;100.0
+1;W1-November;Introduction to Applied Machine Learning;6;6;100.0
+1;W1-November;Statistic;1;1;100.0
+1;W1-October;Applied Data Science;3;4;75.0
+1;W1-October;Data Mining;6;6;100.0
+1;W1-October;Introduction to Applied Machine Learning;4;6;66.67
+1;W1-October;Statistic;1;1;100.0
+1;W2-November;Applied Data Science;3;4;75.0
+1;W2-November;Data Mining;6;6;100.0
+1;W2-November;Introduction to Applied Machine Learning;6;6;100.0
+1;W2-November;Statistic;2;2;100.0
+1;W2-October;Applied Data Science;4;4;100.0
+1;W2-October;Data Mining;6;6;100.0
+1;W2-October;Introduction to Applied Machine Learning;5;6;83.33
+1;W2-October;Statistic;1;1;100.0
+1;W2-September;Applied Data Science;4;4;100.0
+1;W2-September;Data Mining;6;6;100.0
+1;W2-September;Introduction to Applied Machine Learning;5;6;83.33
+1;W2-September;Statistic;2;2;100.0
+1;W3-November;Applied Data Science;3;4;75.0
+1;W3-November;Data Mining;6;6;100.0
+1;W3-November;Introduction to Applied Machine Learning;3;3;100.0
+1;W3-November;Statistic;1;1;100.0
+1;W3-October;Applied Data Science;4;4;100.0
+1;W3-October;Data Mining;6;6;100.0
+1;W3-October;Introduction to Applied Machine Learning;6;6;100.0
+1;W3-October;Statistic;2;2;100.0
+1;W3-September;Applied Data Science;4;4;100.0
+1;W3-September;Data Mining;6;6;100.0
+1;W3-September;Introduction to Applied Machine Learning;6;6;100.0
+1;W3-September;Statistic;2;2;100.0
+1;W4-November;Applied Data Science;3;4;75.0
+1;W4-November;Data Mining;6;6;100.0
+1;W4-November;Introduction to Applied Machine Learning;5;6;83.33
+1;W4-November;Statistic;1;1;100.0
+1;W4-October;Applied Data Science;4;4;100.0
+1;W4-October;Data Mining;6;6;100.0
+1;W4-October;Introduction to Applied Machine Learning;4;6;66.67
+1;W4-October;Statistic;1;1;100.0
+1;W4-September;Applied Data Science;3;4;75.0
+1;W4-September;Data Mining;6;6;100.0
+1;W4-September;Introduction to Applied Machine Learning;6;6;100.0
+1;W4-September;Statistic;1;1;100.0
+1;W5-November;Introduction to Applied Machine Learning;2;2;100.0
+1;W5-October;Applied Data Science;1;1;100.0
+1;W5-October;Data Mining;6;6;100.0
+1;W5-October;Introduction to Applied Machine Learning;2;2;100.0
+1;W5-October;Statistic;2;2;100.0
+1;W5-September;Applied Data Science;1;1;100.0
+1;W5-September;Introduction to Applied Machine Learning;1;1;100.0
+2;W1-April;Data Mining;4;4;100.0
+2;W1-April;Introduction to Applied Machine Learning;6;6;100.0
+2;W1-April;Natural Language Processing;2;2;100.0
+2;W1-April;Python Programming;2;2;100.0
+2;W1-February;Data Mining;4;4;100.0
+2;W1-February;Introduction to Applied Machine Learning;6;6;100.0
+2;W1-February;Natural Language Processing;2;2;100.0
+2;W1-February;Python Programming;2;2;100.0
+2;W1-March;Data Mining;3;4;75.0
+2;W1-March;Introduction to Applied Machine Learning;6;6;100.0
+2;W1-March;Natural Language Processing;2;2;100.0
+2;W1-March;Python Programming;2;2;100.0
+2;W2-April;Data Mining;4;4;100.0
+2;W2-April;Introduction to Applied Machine Learning;6;6;100.0
+2;W2-April;Natural Language Processing;2;2;100.0
+2;W2-April;Python Programming;1;2;50.0
+2;W2-February;Data Mining;4;4;100.0
+2;W2-February;Introduction to Applied Machine Learning;6;6;100.0
+2;W2-February;Natural Language Processing;2;2;100.0
+2;W2-February;Python Programming;1;2;50.0
+2;W2-March;Data Mining;4;4;100.0
+2;W2-March;Introduction to Applied Machine Learning;6;6;100.0
+2;W2-March;Natural Language Processing;2;2;100.0
+2;W2-March;Python Programming;1;2;50.0
+2;W3-April;Data Mining;4;4;100.0
+2;W3-April;Introduction to Applied Machine Learning;6;6;100.0
+2;W3-April;Natural Language Processing;2;2;100.0
+2;W3-April;Python Programming;1;2;50.0
+2;W3-February;Data Mining;4;4;100.0
+2;W3-February;Introduction to Applied Machine Learning;6;6;100.0
+2;W3-February;Natural Language Processing;2;2;100.0
+2;W3-February;Python Programming;2;2;100.0
+2;W3-March;Data Mining;4;4;100.0
+2;W3-March;Introduction to Applied Machine Learning;6;6;100.0
+2;W3-March;Natural Language Processing;2;2;100.0
+2;W3-March;Python Programming;1;2;50.0
+2;W4-April;Data Mining;4;4;100.0
+2;W4-April;Introduction to Applied Machine Learning;4;4;100.0
+2;W4-April;Natural Language Processing;1;1;100.0
+2;W4-February;Data Mining;4;4;100.0
+2;W4-February;Introduction to Applied Machine Learning;6;6;100.0
+2;W4-February;Natural Language Processing;2;2;100.0
+2;W4-February;Python Programming;1;2;50.0
+2;W4-January;Introduction to Applied Machine Learning;2;2;100.0
+2;W4-January;Natural Language Processing;1;1;100.0
+2;W4-January;Python Programming;2;2;100.0
+2;W4-March;Data Mining;4;4;100.0
+2;W4-March;Introduction to Applied Machine Learning;6;6;100.0
+2;W4-March;Natural Language Processing;2;2;100.0
+2;W4-March;Python Programming;1;2;50.0
+2;W5-January;Data Mining;3;4;75.0
+2;W5-January;Introduction to Applied Machine Learning;4;4;100.0
+2;W5-January;Natural Language Processing;1;1;100.0
+2;W5-March;Introduction to Applied Machine Learning;2;2;100.0
+2;W5-March;Natural Language Processing;1;1;100.0
+2;W5-March;Python Programming;2;2;100.0
