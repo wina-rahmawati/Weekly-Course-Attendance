@@ -2,7 +2,6 @@ import pandas as pd
 from datetime import datetime
 
 
-# YOUR_PATH = 'D:/DE/PythonFile/wina/DE_AgriAku/data'
 # Read Data
 def read_data():
     course_data = pd.read_csv(f'course.csv', sep=',')
@@ -14,7 +13,7 @@ def read_data():
 # Function to generate course dates for each row
 def get_course_dates(start_date, end_date, course_days):
     all_dates = pd.date_range(start=start_date, end=end_date)
-    # Adjust isoweekday to match Sunday=1, Monday=2, ..., Saturday=7
+    
     return [date for date in all_dates if ((date.isoweekday() % 7) + 1) in course_days]
 
 def get_week_of_month(dates_list):
